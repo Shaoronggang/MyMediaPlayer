@@ -9,7 +9,7 @@ public class BaseActivity extends AppCompatActivity {
 
     public void initView() {
     }
-    
+
     @Override
 
     protected void onCreate(Bundle savedInstanceState) {
