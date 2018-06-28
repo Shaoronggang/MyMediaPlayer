@@ -7,7 +7,7 @@ import com.detao.mymediaplayer.R;
 
 public class  BaseActivity extends AppCompatActivity {
 
-    public void initView(){};
+    public void initView(){}
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
