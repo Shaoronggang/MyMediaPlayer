@@ -5,9 +5,11 @@ import android.support.v7.app.AppCompatActivity;
 
 import com.detao.mymediaplayer.R;
 
-public class  BaseActivity extends AppCompatActivity {
+public class BaseActivity extends AppCompatActivity {
 
-    public void initView(){};
+    public void initView() {
+    }
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -17,3 +19,4 @@ public class  BaseActivity extends AppCompatActivity {
 
 
 }
+
